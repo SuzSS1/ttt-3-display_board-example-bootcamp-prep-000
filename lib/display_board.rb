@@ -2,9 +2,11 @@
 def display_board
   cell = "   "
   row = " | | "
-  puts cell
-  puts cell
-  puts cell
   dash = -----------
+  puts row
+  puts row
+  puts row
   puts dash
+  print "A Tic Tac Toe Board"
+  
   
